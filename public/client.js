@@ -1,4 +1,4 @@
-
+/*
 // Get the appropriate URL depending on where this is being hosted
 const getSysUrl = () => {
 	if(location.hostname == 'localhost') return 'http://localhost:3000';
@@ -12,3 +12,5 @@ const getBackUrl = () => {
 }
 
 document.querySelector('.calendarLink').href = getBackUrl();
+
+*/
